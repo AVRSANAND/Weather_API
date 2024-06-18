@@ -12,7 +12,7 @@ This project is a Flask-based web API for accessing historical weather data. The
 
 ## Project Structure
 ```
-weather-api/
+Weather_API/
 │
 ├── data_small/             # Folder containing weather data files
 │   ├── stations.txt        # List of stations
@@ -31,8 +31,8 @@ weather-api/
 ## Installation
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/weather-api.git
-    cd weather-api
+    git clone https://github.com/AVRSANAND/Weather_API.git
+    cd Weather_API
     ```
 
 2. **Create and activate a virtual environment**:
